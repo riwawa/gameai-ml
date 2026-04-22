@@ -1,0 +1,19 @@
+# Java
+target/
+*.class
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDEs
+.idea/
+nbproject/private/
+.vscode/
+
+# Data
+*.csv
+*.pkl
